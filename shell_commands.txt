@@ -1,3 +1,5 @@
 ls
 cp
 whoami
+mkdir
+rmdir

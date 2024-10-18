@@ -1,5 +1,6 @@
-ls
-cp
-whoami
-mkdir
-rmdir
+ls - list all files and directories in directory
+cp - copy files
+whoami - tells who the current user is
+mkdir - create directory
+rmdir - remove directory
+find - to find files and directories

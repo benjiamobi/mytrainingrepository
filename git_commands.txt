@@ -1,3 +1,4 @@
-git add .
-git commit -m ""
-git push -u origin main
+git add . - for staging changes
+git commit -m "" - for committing changes
+git push -u origin main - for pushing any changes made in the local machine to the repository
+git init - to initialize a folder for git
